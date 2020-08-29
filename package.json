@@ -1,0 +1,25 @@
+{
+  "name": "gatsby-personal-resume",
+  "version": "1.0.0",
+  "description": "My personal resume",
+  "main": "index.js",
+  "scripts": {
+	"develop": "gatsby develop",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "gatsby": "^2.24.47",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/datqlam/gatsby-personal-resume.git"
+  },
+  "author": "Quoc Dat Lam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/datqlam/gatsby-personal-resume/issues"
+  },
+  "homepage": "https://github.com/datqlam/gatsby-personal-resume#readme"
+}
